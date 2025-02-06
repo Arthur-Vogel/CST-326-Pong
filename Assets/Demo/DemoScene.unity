@@ -822,8 +822,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  LeftScore: {fileID: 0}
-  RightScore: {fileID: 0}
+  LeftScore: {fileID: 1589298474}
+  RightScore: {fileID: 330429460}
 --- !u!135 &406700276
 SphereCollider:
   m_ObjectHideFlags: 0
